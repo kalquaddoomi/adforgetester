@@ -1,0 +1,2 @@
+# adforgetester
+Tests AdForge AdManager
